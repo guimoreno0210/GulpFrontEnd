@@ -1,0 +1,23 @@
+{
+  "name": "automatizacaofront",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "node-sass": "^4.13.0"
+  },
+  "dependencies": {
+    "gulp-pug": "^4.0.1",
+    "initialize-css": "^1.4.0",
+    "sass-rem": "^2.0.1",
+    "scss-form-reset": "0.0.3"
+  }
+}
